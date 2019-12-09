@@ -6,4 +6,4 @@ What packages to install
   - xlsxwriter: to write to and format excel files (https://xlsxwriter.readthedocs.io/)
   - requests: for requesting data from our url (https://2.python-requests.org/en/master/)
 
-Also need to have excel installed
+Also need to have Microsoft Excel installed
