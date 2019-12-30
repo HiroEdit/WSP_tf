@@ -8,6 +8,7 @@ scrapes information about GPU products including -
 - Reviews & Star rating
 - Product link
 - Any offers
+
 ...and more
 
 #### Documentation of packages used:
