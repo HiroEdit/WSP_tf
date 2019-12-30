@@ -1,7 +1,7 @@
 # GPU Webscraper - Final project
 
-#### What it does: 
-scrapes information about GPU products including -
+### What it does: 
+Scrapes information about GPU products including -
 - Manfacturer
 - Model
 - Price/Rebate Price
