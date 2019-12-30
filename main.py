@@ -1,7 +1,8 @@
-# modules used in this project
-import bs4, requests, webbrowser, xlsxwriter, time
+import bs4
+import requests
+import xlsxwriter
+import time
 
-# some list variables to store the data in
 product_manufacturer = []
 product_model = []
 product_price = []
@@ -14,7 +15,6 @@ product_image = []
 product_sku = []
 product_offer = []
 product_availability = []
-
 
 # start of main program function
 def get_url(url):
