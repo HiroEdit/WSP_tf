@@ -1,9 +1,16 @@
-What is this project
-  - A webscraper that stores information about GPU products into an excel file
+# GPU Webscraper - Final project
 
-What packages to install
-  - bs4: to scrape and navigate html files (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-  - xlsxwriter: to write to and format excel files (https://xlsxwriter.readthedocs.io/)
-  - requests: for requesting data from our url (https://2.python-requests.org/en/master/)
+#### What it does: 
+scrapes information about GPU products including -
+- Manfacturer
+- Model
+- Price/Rebate Price
+- Reviews & Star rating
+- Product link
+- Any offers
+...and more
 
-Also need to have Microsoft Excel installed
+#### Documentation of packages used:
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [XlsxWriter](https://xlsxwriter.readthedocs.io/)
+- [Requests](https://2.python-requests.org/en/master/)
