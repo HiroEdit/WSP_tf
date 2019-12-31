@@ -1,4 +1,4 @@
-# GPU Webscraper - Final project
+# GPU Webscraper
 
 ### What it does: 
 Scrapes information about GPU products including -
